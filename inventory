@@ -1,0 +1,2 @@
+[test]
+172.27.0.156 ansible_user=root ansible_password=sniper
